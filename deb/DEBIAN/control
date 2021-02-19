@@ -1,0 +1,7 @@
+Package: helloworld
+Maintainer: me
+Section: utils
+Priority: optional
+Version: 1.0
+Architecture: all
+Description: A simple "hello world" app built into deb package.
